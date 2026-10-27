@@ -1,0 +1,11 @@
+1. What changed in the customer table when the direction was Both
+Only the customer who bought the laptop (Ali Khan) appeared in the table.
+
+2. Which customer has no orders
+Hina.
+
+3. Which product was never sold
+Monitor.
+
+4. Why Computers Sales shows 900 on the Accessories row
+Because CALCULATE replaces the row's Category filter with its own specific filter condition.
